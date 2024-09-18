@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>MySQL Table Viewer</title>
+	<title>MySQL Table Viewer - Emp App Service</title>
 </head>
 <body>
 	<h1>MySQL Table Viewer</h1>
